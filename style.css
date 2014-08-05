@@ -10,10 +10,6 @@ nav{
   opacity:0.6;
 }
 
-p {
-  color: black;
-}
-
 Footer {
 display:block;
 position: absolute;
@@ -67,4 +63,12 @@ p {
 
 .thumbnail {
   background: black;
+}
+
+#brand {
+  font-size: 60px;
+}
+
+.navbar {
+  margin-top: 100px;
 }
