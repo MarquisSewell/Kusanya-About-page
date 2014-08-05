@@ -10,6 +10,9 @@ nav{
   opacity:0.6;
 }
 
+p {
+  color: black;
+}
 
 Footer {
 display:block;
